@@ -1,1 +1,2 @@
-package cerror
+// package
+package custom_error
