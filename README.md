@@ -1,4 +1,4 @@
-# Sugar for handling go errors
+# Sugar for handling go errors.
 
 ## Install
 `go get -t github.com/dacalin/custom_error`
